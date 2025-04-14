@@ -1,0 +1,39 @@
+Boolean Expressions
+---------------------------------------
+== 	equal
+!= 	not equal
+>	graterthan
+<	lessthan
+>=	graterthan or equal
+<=	lessthan or equal
+1)True 
+2)False
+
+
+if statement
+---------------------------------------------
+if condition:
+	do this
+else:
+	do this
+
+nested if condition
+--------------------------------------------------------------
+if condition:
+	if another Condition:
+		do this
+	else:
+	do this
+else:
+	do this
+	
+chained if conditions
+-----------------------------------
+if condition:
+	do a
+elif condition:
+	do b
+elif condition:
+	do c
+else:
+	do this
